@@ -4,12 +4,12 @@ I'm a self-driven full-stack web developer passionate about solving real-world p
 I focus on building powerful applications with smooth, user-friendly interfaces and strong backend logic using the MERN stack.
 
 🚀 Tech Stack & Tools:
-- 🌐 Frontend: React.js, HTML, CSS, Tailwind CSS
-- 🔧 Backend: Node.js, Express.js
-- 🗃️ Database: MongoDB
-- 📱 Also exploring: React Native for cross-platform apps
-- 💻 Currently learning: Authentication, APIs, and Cloud deployment (AWS)
-- 🔗 Future goals: Blockchain & dApps development
+- Frontend: React.js, HTML, CSS, Tailwind CSS
+-  Backend: Node.js, Express.js
+-  Database: MongoDB
+-  Also exploring: React Native for cross-platform apps
+-  Currently learning: Authentication, APIs, and Cloud deployment (AWS)
+-  Future goals: Blockchain & dApps development
 
 🧠 Focus Areas:
 - Mastering full-stack development (MERN)
