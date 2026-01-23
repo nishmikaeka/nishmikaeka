@@ -37,6 +37,6 @@ I focus on creating fast, scalable systems with clean architecture, real-time fe
 - Grow into a confident, independent developer
 
 📫 Let's Connect:  
-[LinkedIn](https://www.linkedin.com/in/nishmika-eka) | [Email](nurannishmika22@gmail.com)
+[Portfolio](https://www.nishmika.me) | [LinkedIn](https://www.linkedin.com/in/nishmika-eka) | [Email](nurannishmika22@gmail.com)
 
 Always learning, always building. Let’s create something meaningful.
